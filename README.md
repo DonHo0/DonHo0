@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DonHo0
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Java, HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
